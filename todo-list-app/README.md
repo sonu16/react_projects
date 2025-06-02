@@ -63,15 +63,14 @@ todo-list-app/
 ### Installation
 
 1.  **Clone the repository:**
-    Replace `sonu16/react_projects.git` with your actual GitHub repository link if you are pushing this project there. If you are just running it locally from the provided code, you can skip this step and just create the files.
     ```bash
     git clone [https://github.com/sonu16/react_projects.git](https://github.com/sonu16/react_projects.git)
-    cd todo-list-app
+    cd react_projects/todo-list-app
     ```
 
 2.  **Navigate to the project directory** (if you haven't already):
     ```bash
-    cd todo-list-app
+    cd react_projects/todo-list-app
     ```
 
 3.  **Install dependencies:**
@@ -94,3 +93,7 @@ todo-list-app/
 - `npm run build`: Builds the app for production.
 - `npm run lint`: Lints the project files.
 - `npm run preview`: Serves the production build locally for preview.
+
+## Developed by Mohd Shahid
+
+#### Project link:- [https://github.com/sonu16/tree/main/todo-list-app](https://github.com/sonu16/tree/main/todo-list-app)
