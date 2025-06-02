@@ -58,7 +58,7 @@ todo-list-app/
 ### Prerequisites
 
 - Node.js (v18.x or later recommended)
-- npm or yarn
+- npm
 
 ### Installation
 
