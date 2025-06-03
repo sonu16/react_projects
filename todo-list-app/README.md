@@ -11,7 +11,7 @@ This is a simple To-Do List application built with React and Vite. It allows use
 - Tasks are saved to local storage
 
 ## Project Structure
-
+```
 todo-list-app/
 ├── public/
 ├── src/
@@ -25,9 +25,11 @@ todo-list-app/
 ├── eslint.config.js
 ├── .gitignore
 ├── index.html
+├── package-lock.json
 ├── package.json
 ├── README.md
 └── vite.config.js
+```
 
 ## Requirements Covered
 
