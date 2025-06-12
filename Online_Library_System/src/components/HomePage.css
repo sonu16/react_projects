@@ -1,0 +1,41 @@
+h1{
+    margin: 10px 0;
+    padding: 0;
+}
+.category-link {
+    display: inline-block;
+    margin: 10px;
+    padding: 0.5rem 1rem;
+    background-color: rgb(188, 231, 217);
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+.category-link:hover {
+    background-color: #f0f0f0;
+}
+.book-list {
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.book-cover {
+    width: 150px;
+    height: 150px;
+    border-radius: 4px;
+}
+.book-cover:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s;
+}
+.book-card {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: box-shadow 0.3s;
+    width: 200px;
+}

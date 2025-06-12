@@ -1,0 +1,30 @@
+.add-book {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+
+.form-group label{
+  color: rgb(61, 74, 150);
+  font-weight: bold;
+}
+
+.form-group input,textarea {
+  width: 300px;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.add-book button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+}
+.add-book button:hover {
+  background-color: #45a049; /* Darker green on hover */
+}
