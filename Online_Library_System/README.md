@@ -14,7 +14,7 @@ This is a React-based web application for an online library system, created as a
 ## Project Structure
 
 ```
-online_library_system/
+Online_Library_System/
 │   .gitignore
 │   eslint.config.js
 │   index.html
@@ -76,12 +76,12 @@ online_library_system/
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/sonu16/react_projects.git](https://github.com/sonu16/react_projects.git)
-    cd react_projects/online_library_system
+    cd react_projects/Online_Library_System
     ```
 
 2.  **Navigate to the project directory** (if you haven't already):
     ```bash
-    cd react_projects/online_library_system
+    cd react_projects/Online_Library_System
     ```
 
 3.  **Install dependencies:**
@@ -107,4 +107,4 @@ online_library_system/
 
 ## Developed by Mohd Shahid
 
-#### Project link:- [https://github.com/sonu16/tree/main/online_library_system](https://github.com/sonu16/tree/main/online_library_system)
+#### Project link:- [https://github.com/sonu16/tree/main/Online_Library_System](https://github.com/sonu16/tree/main/Online_Library_System)
