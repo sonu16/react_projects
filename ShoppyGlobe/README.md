@@ -58,30 +58,56 @@ ShoppyGlobe is a basic e-commerce application built with React and Redux. It all
                 store.js
 ```
 
-## Installation
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   ```
-2. Navigate to the project directory:
-   ```
-   cd ShoppyGlobe
-   ```
-3. Install the dependencies:
-   ```
-   npm install
-   ```
-
-## Running the Application
-To start the application, run:
-```
-npm start
-```
-This will launch the application in your default web browser.
-
 ## Technologies Used
-- React
-- Redux Toolkit
-- React Router
-- CSS for styling
 
+* React
+* React Router Dom
+* Redux Toolkit
+* CSS for styling
+
+## How to Run the Application
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v18.x or later recommended)
+- npm
+
+### Installation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/sonu16/react_projects.git](https://github.com/sonu16/react_projects.git)
+    cd react_projects/ShoppyGlobe
+    ```
+
+2.  **Navigate to the project directory** (if you haven't already):
+    ```bash
+    cd react_projects/ShoppyGlobe
+    ```
+
+3.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+
+### Running the Application
+
+1.  **Start the development server:**
+    ```bash
+    npm run dev
+    ```
+
+2.  Open your browser and navigate to `http://localhost:5173` (or the port specified in your terminal).
+
+## Available Scripts
+
+- `npm run dev`: Starts the development server.
+- `npm run build`: Builds the app for production.
+- `npm run lint`: Lints the project files.
+- `npm run preview`: Serves the production build locally for preview.
+
+## Developed by Mohd Shahid
+
+#### Project link:- [https://github.com/sonu16/tree/main/ShoppyGlobe](https://github.com/sonu16/tree/main/ShoppyGlobe)
