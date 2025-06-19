@@ -1,0 +1,44 @@
+.checkout-container {
+  padding: 20px;
+}
+
+.checkout-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.item-column,
+.qty-column,
+.price-column {
+  padding: 12px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.total-price {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.shipping-info {
+  margin-top: 20px;
+  padding: 12px;
+  border: 1px solid #ddd;
+}
+
+.order-button {
+  background-color: yellow;
+  color: black;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+  width: 25%;
+  align-self: center;
+}
+
+.order-button:hover {
+  background-color: rgb(236, 212, 74);
+}

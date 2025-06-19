@@ -1,0 +1,15 @@
+.product-list {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.product-header h2 {
+    text-align: center;
+}
+
+.product-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
