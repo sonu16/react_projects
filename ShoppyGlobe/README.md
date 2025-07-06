@@ -110,4 +110,4 @@ ShoppyGlobe is a basic e-commerce application built with React and Redux. It all
 
 ## Developed by Mohd Shahid
 
-#### Project link:- [https://github.com/sonu16/tree/main/ShoppyGlobe](https://github.com/sonu16/tree/main/ShoppyGlobe)
+#### Project link:- [https://github.com/sonu16/tree/main/ShoppyGlobe.git](https://github.com/sonu16/tree/main/ShoppyGlobe.git)
